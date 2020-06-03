@@ -1,13 +1,12 @@
 ## Soft Ripple Button
 Hola! Today we will learn about Ripples and hover animation in Adobe Xd to form ripple effect.
 
-### Files
-Find the following files for this design: 
+### Files: 
 - PNG's for reference
 - Adobe Xd file for getting creative
 - Animation GIF
 
-### Fonts
+### Fonts:
 I'm using Josefin Sans from Google Fonts.
 
 ### Video references:
