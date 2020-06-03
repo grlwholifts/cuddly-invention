@@ -1,5 +1,5 @@
 # Xd and Grlwholifts✨
-Hello and welcome to my repository. I learn design things and share them with you. UX and UI. Feel free to learn and experiment!
+Hello and welcome to my repository. I learn design things and share them with you. Feel free to learn and experiment!
 
 ## How to use
 You will find the following files: 
