@@ -10,10 +10,10 @@ You will find the following files:
 - README which contains steps, tips, thoughts and learning resources
 
 ## Support my work:
-- Behance []()
-- Dribbble []()
-- Github []()
-- Twitter []()
+- [Behance](www.behance.com/grlwholifts)
+- [Dribbble](www.dribbble.com/grlwholifts)
+- [Github](www.github.com/grlwholifts)
+- [Twitter](www.twitter.com/grlwholifts)
 
 ## Get in touch
 Drop me a mail 📩ruchikag826@gmail.com or message on any social platform.
